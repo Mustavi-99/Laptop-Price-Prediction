@@ -1,0 +1,242 @@
+Brand,Processor,Processor_Generation,RAM,Storage (GB),Storage_Type,Graphics,Display_Size,Display_Type,Warranty,Price
+HP,Intel Core i7,11th (Intel),16,1024,SSD,Nvidia RTX 3070 Graphics,14,FHD LED,3,203980
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,3,51540
+Acer,Intel Core i7,11th (Intel),16,1024,SSD,Nvidia RTX 3060 Graphics,15.6,FHD OLED Display,2,201810
+Asus,Intel Core i3,11th (Intel),8,512,SSD,Intel UHD Graphics,15.6,FHD LED,2,69440
+Laptop,Intel Celeron Dual Core,CDC N4020,4,256,SSD,Intel UHD Graphics 600,15.6,FHD LED,2,43940
+Apple,Apple M1 Chip,Apple M1 Chip,16,256,SSD,Apple 7-core GPU,13.3,Liquid Retina XDR Display,1,172520
+Asus,AMD Ryzen 5,Ryzen 5 5500U,16,512,SSD,AMD Radeon Graphics,14,2K IPS LED Display,2,137800
+Asus,Intel Core i3,11th (Intel),8,512,SSD,Intel UHD Graphics,15.6,FHD OLED Display,2,78120
+HP,AMD Ryzen 7,Ryzen 7 5700U,8,512,SSD,AMD Radeon Graphics,15.6,FHD LED,1,85170
+Microsoft,Intel Core i5,11th (Intel),16,256,SSD,Intel Iris Xe Graphics,14.4,PixelSense Flow MultiTouch Display,1,185540
+Lenovo,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,15.6,FHD LED,2,78120
+Lenovo,Intel Celeron Dual Core,CDC N4020,4,1024,HDD,Intel UHD Graphics 600,15.6,HD LED,2,38520
+Lenovo,Intel Core i5,11th (Intel),16,512,SSD,Nvidia MX350 Graphics,16,2K IPS LED Display,3,131290
+Dell,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,14,FHD LED,3,79750
+HP,Intel Core i7,12th (Intel),8,512,SSD,Intel Iris Xe Graphics,15.6,FHD LED,3,99820
+Asus,Intel Core i5,11th (Intel),4,1024,HDD,Intel Iris Xe Graphics,15.6,FHD LED,2,72700
+Asus,Intel Core i7,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD LED,2,112840
+HP,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,59680
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD LED,2,97110
+Apple,Apple M1 Chip,Apple M1 Chip,16,512,SSD,Apple 8-core GPU,13.3,HD LED,1,189880
+Lenovo,Intel Core i3,11th (Intel),8,256,SSD,Intel UHD Graphics,14,FHD OLED Display,2,78660
+Asus,Intel Core i7,11th (Intel),16,512,SSD,Nvidia MX350 Graphics,14,FHD LED,2,119350
+Microsoft,Intel Core i7,10th (Intel),16,1024,SSD,Intel Iris Xe Graphics,12.3,PixelSense MultiTouch Display,1,195300
+Dell,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,15.6,FHD LED,2,73780
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD OLED Display,2,104160
+Lenovo,Intel Core i7,11th (Intel),16,1024,SSD,Intel Iris Xe Graphics,14,PixelSense Flow MultiTouch Display,2,232190
+MSI,Intel Core i3,10th (Intel),4,256,SSD,Intel UHD Graphics,14,FHD IPS LED Display,2,51000
+HP,AMD Ryzen 5,Ryzen 5 5500U,8,512,SSD,AMD Radeon Graphics,15.6,FHD LED,1,72700
+Asus,AMD Ryzen 7,Ryzen 7 4700U,8,512,SSD,AMD Radeon Graphics,15.6,FHD IPS LED Display,2,75410
+Apple,Apple M1 Chip,Apple M1 Pro,16,1024,SSD,Apple 16-core GPU,14.2,HD LED,1,265830
+Asus,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD IPS LED Display,1,56420
+Dell,Intel Core i5,11th (Intel),8,512,HDD,Nvidia MX350 Graphics,15.6,FHD LED,3,93850
+Asus,Intel Core i5,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,14,FHD IPS LED Display,2,93850
+Acer,AMD Ryzen 3,Ryzen 3 3250U,4,1024,HDD,AMD Radeon Graphics,14,HD LED,2,47200
+Acer,Intel Celeron Dual Core,CDC N4020,4,256,SSD,Intel UHD Graphics 600,11.6,HD LED,3,39600
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,55340
+HP,Intel Core i5,12th (Intel),8,512,SSD,Intel Iris Xe Graphics,15.6,FHD LED,3,83550
+HP,AMD Ryzen 5,Ryzen 5 5500U,8,256,SSD,AMD Radeon Graphics,15.6,FHD LED,3,46660
+Asus,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,56420
+Acer,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,15.6,FHD LED,2,62930
+HP,Intel Core i7,12th (Intel),8,512,SSD,Intel Iris Xe Graphics,14,FHD LED,3,99820
+Huawei,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,15.6,FHD LED,2,74320
+Acer,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,15.6,FHD LED,2,65100
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,15,PixelSense MultiTouch Display,1,200730
+Asus,AMD Ryzen 7,Ryzen 7 6800H,16,512,SSD,Nvidia RTX 3060 Graphics,15.6,FHD IPS LED Display,2,233280
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,3,51540
+Asus,Intel Core i3,10th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,53710
+HP,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,15.6,FHD IPS LED Display,3,73780
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,13,PixelSense Flow MultiTouch Display,3,210490
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Intel UHD Graphics,15.6,FHD OLED Display,2,96570
+Asus,Intel Core i5,11th (Intel),4,512,SSD,Intel Iris Xe Graphics,14,FHD LED,2,75950
+Dell,Intel Core i7,11th (Intel),16,1024,SSD,Nvidia RTX 3050 Graphics,15.6,FHD OLED Display,2,307600
+MSI,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,15.6,FHD IPS LED Display,3,79750
+Acer,AMD Ryzen 7,Ryzen 7 5700U,8,512,SSD,AMD Radeon Graphics,15.6,FHD LED,1,77040
+Apple,Apple M1 Chip,Apple M1 Pro,16,1024,SSD,Apple 16-core GPU,16.2,Liquid Retina XDR Display,1,320080
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,13.5,PixelSense MultiTouch Display,2,187710
+Dell,Intel Celeron Dual Core,CDC N4020,4,1024,HDD,Intel UHD Graphics 600,15.6,HD LED,2,42860
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX330 Graphics,15.6,FHD LED,2,86800
+Apple,Apple M1 Chip,10th (Intel),32,1024,SSD,Apple 16-core GPU,16.2,Liquid Retina XDR Display,1,377580
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,HD LED,1,59020
+Dell,Intel Core i7,11th (Intel),32,1024,SSD,Intel Iris Xe Graphics,13.5,PixelSense MultiTouch Display,1,241960
+Acer,Intel Core i3,10th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,1,45570
+Asus,AMD Ryzen 9,Ryzen 9 5900H,32,1024,SSD,Nvidia RTX 3050 Graphics,13.4,FHD OLED Display,2,362930
+Dell,Intel Core i5,11th (Intel),4,1024,HDD,Nvidia MX350 Graphics,15.6,FHD LED,2,73780
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Nvidia RTX 3050 Graphics,14.4,PixelSense Flow MultiTouch Display,3,227850
+Microsoft,Intel Core i7,11th (Intel),8,256,SSD,Intel Iris Xe Graphics,15,PixelSense MultiTouch Display,3,166010
+Asus,Intel Core i3,11th (Intel),8,512,SSD,Intel UHD Graphics,14,FHD LED,2,69440
+Acer,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD LED,2,80830
+MSI,Intel Core i7,11th (Intel),16,512,SSD,Nvidia RTX 3060 Graphics,16,PixelSense Flow MultiTouch Display,1,242500
+Asus,Intel Core i3,11th (Intel),8,512,SSD,Intel UHD Graphics,15.6,FHD LED,1,67270
+Lenovo,Intel Core i7,11th (Intel),8,1024,HDD,Nvidia GTX 1650 Graphics,15.6,FHD IPS LED Display,3,145390
+Microsoft,Intel Core M3,10th (Intel),8,128,SSD,Intel UHD Graphics 615,10.5,PixelSense MultiTouch Display,3,67810
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,3,52080
+HP,Intel Core i3,12th (Intel),8,512,SSD,Intel UHD Graphics,15.6,FHD LED,2,69440
+Asus,Intel Core i3,11th (Intel),4,512,HDD,Intel UHD Graphics,15.6,FHD LED,2,62930
+Apple,Apple M1 Chip,Apple M1 Max Chip,32,512,SSD,Apple 32-core GPU,14.2,Liquid Retina XDR Display,1,274510
+Acer,Intel Core i5,11th (Intel),8,1024,HDD,Nvidia MX350 Graphics,15.6,FHD LED,2,71070
+HP,AMD Ryzen 7,Ryzen 7 6800H,8,512,SSD,AMD Radeon Graphics,15.6,FHD LED,1,86260
+HP,AMD Ryzen 9,Ryzen 9 5900H,16,1024,SSD,Nvidia RTX 3070 Graphics,16.1,FHD IPS LED Display,2,260400
+Dell,Intel Core i3,11th (Intel),4,256,SSD,Intel UHD Graphics,15.6,FHD LED,3,55880
+Asus,Intel Core i7,12th (Intel),16,512,SSD,Nvidia RTX 3050 Graphics,15.6,FHD LED,2,200730
+Apple,Apple M1 Chip,Apple M1 Pro,32,1024,SSD,Apple 16-core GPU,14.2,Liquid Retina XDR Display,1,377580
+Asus,Intel Celeron Dual Core,CDC N4020,4,512,SSD,Inte UHD Graphics 600,15.6,FHD LED,2,48830
+Asus,Intel Celeron Dual Core,CDC N4020,4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,43940
+Asus,Intel Celeron Dual Core,CDC N4020,4,512,SSD,Intel UHD Graphics 600,14,FHD IPS LED Display,2,48830
+Acer,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,14,FHD LED,3,75410
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,13.5,PixelSense MultiTouch Display,3,187710
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Nvidia RTX 3050 Graphics,14.4,PixelSense Flow MultiTouch Display,1,226770
+Lenovo,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,14,FHD IPS LED Display,3,104160
+Asus,Intel Core i7,11th (Intel),16,512,SSD,Nvidia RTX 3050 Graphics,15.6,FHD LED,3,167090
+Acer,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD IPS LED Display,2,49370
+Acer,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,49370
+HP,Intel Pentium Silver,CDC N4500,4,1024,HDD,Intel UHD Graphics 605,15.6,HD LED,1,43400
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,HD LED,3,52080
+Asus,AMD Ryzen 7,Ryzen 7 6800H,16,1024,SSD,Nvidia RTX 3060 Graphics,15.6,2K IPS LED Display,1,287530
+HP,Intel Core i3,11th (Intel),8,1024,HDD,Intel UHD Graphics,14,FHD LED,3,63470
+Asus,Intel Celeron Dual Core,CDC N4020,4,1024,HDD,Intel UHD Graphics 600,15.6,HD LED,1,43400
+Microsoft,Intel Core i5,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,13.5,PixelSense MultiTouch Display,1,167090
+Asus,Intel Core i5,11th (Intel),4,1024,HDD,Intel Iris Xe Graphics,15.6,FHD LED,2,72700
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD OLED Display,2,103080
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,15.6,FHD LED,2,81920
+Lenovo,Intel Core i3,11th (Intel),8,256,HDD,Intel UHD Graphics,14,FHD LED,3,61850
+Acer,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,15.6,FHD LED,3,74320
+Lenovo,Intel Core i5,11th (Intel),8,1024,HDD,Nvidia GTX 1650 Graphics,15.6,FHD IPS LED Display,3,101990
+Apple,Apple M1 Chip,Apple M1 Max Chip,64,1024,SSD,Apple 24-Core GPU,16.2,Liquid Retina XDR Display,1,431830
+Apple,Apple M1 Chip,Apple M1 Pro,32,1024,SSD,Apple 14-Core GPU,14.2,Liquid Retina XDR Display,2,345030
+Microsoft,Intel Core i7,10th (Intel),16,256,SSD,Nvidia GTX 1660 Graphics,15,PixelSense MultiTouch Display,1,235450
+Dell,Intel Pentium Gold,PQC Silver N5030,4,1024,HDD,Intel UHD Graphics 605,15.6,HD LED,1,44490
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD LED,2,97110
+Microsoft,Intel Core i7,11th (Intel),32,1024,SSD,Nvidia RTX 3050 Graphics,14.4,PixelSense Flow MultiTouch Display,1,278850
+Asus,Intel Celeron Dual Core,CDC N4020,4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,46660
+MSI,AMD Ryzen 7,Ryzen 7 6800H,16,512,SSD,Nvidia RTX 3050 Graphics,15.6,FHD IPS LED Display,3,189770
+Acer,AMD Ryzen 5,Ryzen 5 4500U,8,512,SSD,AMD Radeon Graphics,14,FHD IPS LED Display,2,82460
+HP,Intel Celeron Dual Core,CDC N4500,4,256,SSD,Intel UHD Graphics,15.6,FHD LED,2,45570
+Asus,Intel Celeron Dual Core,CDC N4020,4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,47740
+Asus,Intel Celeron Dual Core,CDC N4020,4,512,SSD,Inte UHD Graphics 600,15.6,FHD LED,2,48830
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD OLED Display,2,104160
+HP,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,13.3,FHD IPS LED Display,3,84630
+Asus,AMD Ryzen 7,Ryzen 7 6800H,16,512,SSD,Nvidia RTX 3050 Graphics,15.6,FHD LED,3,193130
+Lenovo,Intel Core i5,10th (Intel),8,1024,HDD,Intel UHD Graphics,15.6,FHD IPS LED Display,2,59680
+Huawei,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,14,FHD LED,2,74320
+Realme,Intel Core i3,11th (Intel),8,256,SSD,Intel UHD Graphics,14,2K IPS LED Display,2,64020
+HP,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,15.6,FHD LED,3,75950
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,60760
+Asus,Intel Core i7,11th (Intel),16,512,SSD,Nvidia RTX 3050 Graphics,16,2K IPS LED Display,2,179030
+Microsoft,Intel Core i7,11th (Intel),16,256,SSD,Intel Iris Xe Graphics,13,PixelSense Flow MultiTouch Display,3,181200
+Realme,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,14,2K IPS LED Display,2,79210
+Acer,Intel Core i3,10th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,1,46110
+Asus,Intel Core i7,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD OLED Display,2,115010
+Asus,Intel Celeron Dual Core,CDC N4500,4,1024,HDD,Intel UHD Graphics,15.6,HD LED,2,43400
+Asus,Intel Celeron Dual Core,CDC N4020,4,1024,HDD,Intel UHD Graphics 600,15.6,HD LED,1,43400
+Microsoft,Intel Core i5,10th (Intel),8,128,SSD,Intel UHD Graphics,12.4,PixelSense MultiTouch Display,1,77040
+Lenovo,Intel Core i3,10th (Intel),4,256,SSD,Intel UHD Graphics,15.6,FHD LED,1,57510
+Apple,Apple M1 Chip,Apple M1 Max Chip,32,1024,SSD,Apple 32-core GPU,16.2,Liquid Retina XDR Display,1,464380
+Asus,AMD Ryzen 7,Ryzen 7 4700U,8,512,SSD,AMD Radeon Graphics,15.6,FHD IPS LED Display,2,75410
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,15,PixelSense MultiTouch Display,1,200730
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,3,51540
+Asus,AMD Ryzen 3,Ryzen 3 3250U,4,512,SSD,AMD Radeon Graphics,15.6,FHD LED,3,56420
+Asus,Intel Core i3,11th (Intel),8,512,SSD,Intel UHD Graphics,15.6,FHD LED,2,69440
+HP,Intel Core i7,11th (Intel),16,1024,SSD,Intel Iris Xe Graphics,13.3,FHD LED,2,185540
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,54250
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,15,PixelSense MultiTouch Display,1,200730
+Acer,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,15.6,FHD LED,2,63470
+Dell,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,15.6,FHD LED,2,71070
+Asus,Intel Core i5,11th (Intel),4,256,SSD,Nvidia MX330 Graphics,15.6,FHD LED,2,82460
+Dell,Intel Core i3,11th (Intel),4,256,SSD,Intel UHD Graphics,14,HD LED,3,67810
+Asus,AMD Ryzen 3,Ryzen 3 3250U,4,512,SSD,AMD Radeon Graphics,15.6,FHD LED,2,58590
+Asus,Intel Core i3,10th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,51540
+Lenovo,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,14,2K IPS LED Display,2,160580
+HP,Intel Pentium Silver,PQC Silver N5030,4,1024,HDD,Intel UHD Graphics 605,15.6,HD LED,2,43400
+Asus,Intel Core i3,11th (Intel),8,512,HDD,Intel UHD Graphics,15.6,FHD LED,2,67270
+Apple,Apple M1 Chip,Apple M1 Pro,16,1024,SSD,Apple 16-core GPU,14.2,Liquid Retina XDR Display,1,265830
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,1,51540
+Lenovo,Intel Celeron Dual Core,CDC N4020,4,256,SSD,Intel UHD Graphics 600,14,FHD LED,3,43940
+HP,AMD Ryzen 5,Ryzen 5 5625U,8,512,SSD,AMD Radeon Graphics,15.6,FHD LED,3,72700
+Asus,Intel Core i5,11th (Intel),4,512,SSD,Intel Iris Xe Graphics,15.6,FHD LED,1,78120
+MSI,Intel Core i5,10th (Intel),8,512,SSD,Nvidia GTX 1650 Graphics,15.6,FHD IPS LED Display,2,93310
+Asus,Intel Core i3,11th (Intel),4,512,SSD,Intel UHD Graphics,15.6,FHD LED,3,62390
+Lenovo,Intel Core i3,11th (Intel),4,512,SSD,Intel UHD Graphics,14,FHD LED,1,69440
+Dell,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,15.6,FHD LED,1,71070
+HP,Intel Core i5,12th (Intel),8,512,SSD,Intel Iris Xe Graphics,14,FHD LED,1,83550
+Lenovo,Intel Celeron Dual Core,CDC N4020,4,256,SSD,Intel UHD Graphics 600,15.6,HD LED,3,42320
+Lenovo,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,13.3,2K IPS LED Display,3,187710
+Apple,Apple M1 Chip,Apple M1 Max Chip,32,2048,SSD,Apple 32-Core GPU,16.2,Liquid Retina XDR Display,1,401450
+HP,AMD Ryzen 5,Ryzen 5 5625U,8,512,SSD,AMD Radeon Graphics,14,FHD LED,3,72150
+Asus,Intel Core i9,12th (Intel),16,1024,SSD,Nvidia RTX 3050 Graphics,13.4,FHD OLED Display,2,292950
+HP,Intel Core i3,11th (Intel),8,1024,HDD,Intel UHD Graphics,14,FHD LED,3,63470
+Lenovo,Intel Core i7,11th (Intel),16,1024,SSD,Nvidia RTX 3070 Graphics,16,2K IPS LED Display,3,269080
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,13.5,PixelSense MultiTouch Display,1,187710
+Microsoft,Intel Core i7,10th (Intel),16,256,SSD,Nvidia GTX 1650 Graphics,13.5,PixelSense MultiTouch Display,1,199640
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,15,PixelSense MultiTouch Display,1,200730
+Microsoft,Intel Core i5,11th (Intel),8,256,SSD,Intel Iris Xe Graphics,13,PixelSense Flow MultiTouch Display,3,136710
+Dell,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD LED,2,80830
+Dell,Intel Core i5,11th (Intel),8,1024,HDD,Nvidia MX350 Graphics,15.6,FHD LED,2,85720
+HP,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,15.6,FHD LED,1,73780
+Acer,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,48280
+Dell,AMD Ryzen 3,Ryzen 3 3250U,4,1024,HDD,AMD Radeon Vega 8 Graphics,14,HD LED,3,49370
+Lenovo,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD LED,2,83550
+Asus,AMD Ryzen 3,Ryzen 3 3250U,4,512,SSD,AMD Radeon Graphics,15.6,FHD LED,2,58590
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,15.6,FHD LED,2,81920
+Dell,Intel Core i3,11th (Intel),4,256,SSD,Intel UHD Graphics,15.6,FHD LED,3,50450
+Acer,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,49910
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD LED,2,97110
+Acer,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,15.6,FHD LED,2,78120
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,1,51540
+Asus,Intel Core i7,11th (Intel),16,512,HDD,Intel Iris Xe Graphics,14,FHD IPS LED Display,2,184450
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel UHD Graphics,12.3,PixelSense MultiTouch Display,1,188790
+MSI,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,14,FHD IPS LED Display,2,79210
+Asus,Intel Core i3,10th (Intel),4,1024,HDD,Intel UHD Graphics,14,FHD LED,2,51540
+Asus,Intel Core i3,11th (Intel),8,512,SSD,Intel UHD Graphics,15.6,FHD LED,2,62930
+HP,Intel Core i3,12th (Intel),8,512,SSD,Intel UHD Graphics,14,FHD IPS LED Display,1,69440
+MSI,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,14,FHD IPS LED Display,2,80290
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Intel UHD Graphics,15.6,FHD OLED Display,2,96570
+Lenovo,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,14,FHD IPS LED Display,3,55340
+Microsoft,Intel Pentium Gold,PQC Silver N5030,8,128,SSD,Intel UHD Graphics 615,10.5,PixelSense MultiTouch Display,1,77040
+Realme,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,14,2K IPS LED Display,2,79210
+Asus,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,1,56420
+HP,Intel Core i3,12th (Intel),4,256,SSD,Intel UHD Graphics,15.6,FHD LED,3,66190
+Acer,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,54250
+Acer,AMD Ryzen 5,Ryzen 5 5500U,8,512,SSD,AMD Radeon Graphics,15.6,FHD LED,2,68360
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,3,51540
+Dell,Intel Core i5,11th (Intel),8,1024,HDD,Nvidia MX350 Graphics,15.6,FHD LED,2,86260
+Asus,Intel Celeron Dual Core,CDC N4020,4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,44490
+Dell,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,14,FHD LED,3,85720
+HP,Intel Core i3,11th (Intel),8,1024,HDD,Intel UHD Graphics,15.6,FHD LED,1,61850
+Dell,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,14,HD LED,3,56420
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD LED,2,97650
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,13.5,PixelSense MultiTouch Display,1,187710
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Nvidia RTX 3050 Graphics,15.6,FHD LED,2,136710
+MSI,AMD Ryzen 5,Ryzen 5 5500U,8,512,SSD,AMD Radeon Graphics,15.6,FHD IPS LED Display,3,77040
+Lenovo,Intel Celeron Dual Core,CDC N4020,4,128,HDD,Intel UHD Graphics 600,10.1,HD IPS LED Display,1,39060
+Asus,Intel Core i3,10th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD LED,2,51540
+Dell,Intel Core i3,11th (Intel),4,256,SSD,Intel UHD Graphics,15.6,FHD LED,3,55880
+Apple,Apple M1 Chip,Apple M1 Pro,16,512,SSD,Apple 14-core GPU,14.2,Liquid Retina XDR Display,1,260400
+HP,Intel Core i3,11th (Intel),8,512,SSD,Intel UHD Graphics,15.6,HD LED,3,65100
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,14,2K IPS LED Display,2,132370
+Asus,Intel Celeron Dual Core,CDC N4500,4,1024,HDD,Intel UHD Graphics,15.6,HD LED,2,43400
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,13.5,PixelSense Flow MultiTouch Display,2,187710
+Realme,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,14,2K IPS LED Display,2,79210
+Lenovo,Intel Core i3,10th (Intel),4,256,SSD,Intel UHD Graphics,15.6,FHD LED,1,51000
+Asus,AMD Ryzen 7,Ryzen 7 6800H,16,512,SSD,Nvidia RTX 3050 Graphics,15.6,FHD LED,2,193130
+Lenovo,Intel Core i3,11th (Intel),4,256,SSD,Intel UHD Graphics,15.6,FHD LED,2,57510
+Asus,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD LED,2,97110
+Apple,Apple M1 Chip,Apple M1 Chip,16,512,SSD,Apple 14-core GPU,14.2,Liquid Retina XDR Display,1,253890
+Microsoft,Intel Core i7,11th (Intel),16,512,SSD,Intel Iris Xe Graphics,15,PixelSense MultiTouch Display,1,192050
+Acer,Intel Core i5,11th (Intel),8,1024,HDD,Intel Iris Xe Graphics,15.6,FHD IPS LED Display,2,64560
+Asus,Intel Core i3,11th (Intel),8,512,SSD,Intel UHD Graphics,15.6,FHD OLED Display,2,78120
+Apple,Apple M1 Chip,Apple M1 Max Chip,32,1024,SSD,Apple 24-Core GPU,14.2,Liquid Retina XDR Display,1,410130
+HP,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,14,FHD IPS LED Display,3,84090
+Acer,Intel Core i5,11th (Intel),8,512,SSD,Nvidia MX350 Graphics,15.6,FHD LED,2,81920
+Asus,Intel Core i5,10th (Intel),8,1024,HDD,Intel UHD Graphics,15.6,FHD LED,1,69980
+Asus,Intel Core i5,11th (Intel),4,512,SSD,Intel Iris Xe Graphics,14,FHD LED,2,75950
+HP,Intel Core i3,11th (Intel),4,1024,HDD,Intel UHD Graphics,15.6,FHD IPS LED Display,3,56420
+HP,Intel Core i3,11th (Intel),8,1024,HDD,Intel UHD Graphics,15.6,FHD LED,3,64020
+Lenovo,AMD Ryzen 5,Ryzen 5 4500U,8,512,SSD,AMD Radeon Graphics,14,FHD IPS LED Display,3,79210
+HP,Intel Core i5,11th (Intel),8,512,SSD,Intel Iris Xe Graphics,13.3,FHD IPS LED Display,3,84630
+Microsoft,Intel Core i7,11th (Intel),32,1024,SSD,Intel Iris Xe Graphics,15,PixelSense MultiTouch Display,1,227850
+Acer,Core i5 1035G1,10th (Intel),8,1024,HDD,Intel UHD Graphics,15.6,FHD LED,3,61300
+MSI,Intel Core i3,11th (Intel),8,512,SSD,Intel UHD Graphics,14,FHD IPS LED Display,2,69980
+HP,AMD Ryzen 3,Ryzen 3 3250U,8,512,SSD,AMD Radeon Graphics,14,FHD LED,2,76490
+HP,Intel Core i7,10th (Intel),8,1024,HDD,Intel UHD Graphics,14,PixelSense MultiTouch Display,1,78530

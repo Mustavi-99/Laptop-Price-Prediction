@@ -1,0 +1,86 @@
+Brands
+Acer
+Apple
+Asus
+Dell
+HP
+Huawei
+Laptop
+Lenovo
+MSI
+Microsoft
+Realme
+
+Processor
+AMD Ryzen 3
+AMD Ryzen 5
+AMD Ryzen 7
+AMD Ryzen 9
+Apple M1 Chip
+Core i5 1035G1
+Intel Celeron Dual Core
+Intel Core M3
+Intel Core i3
+Intel Core i5
+Intel Core i7
+Intel Core i9
+Intel Pentium Gold
+Intel Pentium Silver
+
+
+Processor generations
+10th (Intel)
+11th (Intel)
+12th (Intel)
+Apple M1 Chip
+Apple M1 Max Chip
+Apple M1 Pro
+CDC N4020
+CDC N4500
+PQC Silver N5030
+Ryzen 3 3250U
+Ryzen 5 4500U
+Ryzen 5 5500U
+Ryzen 5 5625U
+Ryzen 7 4700U
+Ryzen 7 5700U
+Ryzen 7 6800H
+Ryzen 9 5900H
+
+Graphics
+AMD Radeon Graphics
+AMD Radeon Vega 8 Graphics
+Apple 14-Core GPU
+Apple 14-core GPU
+Apple 16-core GPU
+Apple 24-Core GPU
+Apple 32-Core GPU
+Apple 32-core GPU
+Apple 7-core GPU
+Apple 8-core GPU
+Inte UHD Graphics 600
+Intel Iris Xe Graphics
+Intel UHD Graphics
+Intel UHD Graphics 600
+Intel UHD Graphics 605
+Intel UHD Graphics 615
+Nvidia GTX 1650 Graphics
+Nvidia GTX 1660 Graphics
+Nvidia MX330 Graphics
+Nvidia MX350 Graphics
+Nvidia RTX 3050 Graphics
+Nvidia RTX 3060 Graphics
+Nvidia RTX 3070 Graphics
+
+linear_error  knn_error
+
+Display_Type
+2K IPS LED Display
+FHD IPS LED Display
+FHD LED
+FHD OLED Display
+HD IPS LED Display
+HD LED
+Liquid Retina XDR Display
+PixelSense Flow MultiTouch Display
+PixelSense MultiTouch Display
